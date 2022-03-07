@@ -1,0 +1,1 @@
+This document is just a simple sum up of the JWT format. 
